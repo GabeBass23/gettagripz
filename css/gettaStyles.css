@@ -250,6 +250,10 @@ header img{
   font-size: 40px;
 }
 
+.maker_link{
+  margin-bottom: 20px;
+}
+
 .testimonials {
   position: absolute;
   top: 300px; /* Top of the #about section */
