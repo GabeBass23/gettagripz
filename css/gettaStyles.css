@@ -448,16 +448,16 @@ section h2{
   width: auto;
 }
 
-.at_home{
-  background-image: url(../images/at_home.png);
+.pinch{
+  background-image: url(../photoshoot/GG_LG_Pinch_RR.jpg);
 }
 
-.at_gym{
-  background-image: url(../images/at_gym.png);
+.crimp{
+  background-image: url(../photoshoot/GG_WR_Crimp.jpg);
 }
 
-.at_crag{
-  background-image: url(../images/at_crag.png);
+.pocket{
+  background-image: url(../photoshoot/GG_Pocket_RR.jpg);
 }
 
 .grip_photos div{
